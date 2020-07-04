@@ -34,7 +34,7 @@ To get more information about this specific type, go to xyzdesk.online/docs/3-9-
             if(command == "help()")
             {
                 
-            }
+            }//
             
            
         }
