@@ -12,7 +12,7 @@
 <p>Uniscript is an <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">object-oriented</a> flexible language used to create cross-platform apps. Uniscript was based off of C, C++, C#, Lua, JavaScript, and Java.</p>
 
 <h3>How do I learn Uniscript?</h3>
-<p>Research using our <a href="https://uniscript.fandom.com">Fandom</a>. </p>
+<p>Research using our <a href="https://uniscript.fandom.com">Wiki</a>. </p>
 
 <h3>Why is Uniscript a thing?</h3>
 <p>Uniscript is a thing because we wanted to create a versatile and widely recognised programming language which is similar to most commonly learnt languages such as C, C++, C#, Lua, JavaScript, and Java.</p>
